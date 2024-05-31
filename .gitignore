@@ -1,0 +1,10 @@
+# ignore all png files
+**/*.png
+**/*.pkl
+
+# ignore ide files
+.idea/
+
+/README.pdf
+
+**/*.zip
